@@ -39,6 +39,6 @@ https://dimartiro-shakesearch.herokuapp.com/
 - Reduce result to one sentence
 
 ### UI
-- Replace new lines (\n) for html newlines (<br>)
+- Replace new lines (\n) for html newlines
 - Highlight results coincidences 
 - Search while typing
