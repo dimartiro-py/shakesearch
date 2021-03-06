@@ -31,6 +31,9 @@ current state, can be deployed easily on Heroku's free tier.
 
 
 ## Improvements
+### Heroku deployment
+https://dimartiro-shakesearch.herokuapp.com/
+
 ### Backend
 - Support for case insensitive searches
 - Reduce result to one sentence
